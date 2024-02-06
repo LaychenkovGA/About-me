@@ -1,8 +1,8 @@
-___</u>Здравствуйте!</u>___
+___Здравствуйте!___
  
-_*Меня зовут Глеб.*_ 
+_Меня зовут Глеб._ 
  
- # ![Фотография](https://flomaster.top/uploads/posts/2023-01/1673978368_flomaster-club-p-risunok-beseda-vkontakte-8.jpg)
+ ![Фотография](https://flomaster.top/uploads/posts/2023-01/1673978368_flomaster-club-p-risunok-beseda-vkontakte-8.jpg)
 
 _Знаю имя мое не уникально и довольно распространено, но мне оно нравиться._ 
  
